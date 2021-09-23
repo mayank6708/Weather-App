@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background: url("images/pexels-gabriela-palai-395196.jpg") no-repeat center
+    center fixed;
+  background-size: cover;
+}
+.container {
+  text-align: center;
+  padding-top: 3%;
+}
+h1 {
+  font-size: 5rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.date {
+  font-size: 2rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-bottom: 3%;
+}
+input {
+  font-size: 2rem;
+}
+.location {
+  padding-top: 2%;
+}
+.current {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: #fff;
+  width: 20%;
+  margin-left: 40%;
+  border-radius: 10px;
+}
+.details {
+  font-size: 2rem;
+}
+@media (max-width: 662px) {
+  .current {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
