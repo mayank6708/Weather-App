@@ -1,5 +1,7 @@
 # Weather-App
 
+Made by - Mayank Kumar Kandhwey
+
 This weather app can be used to display the instantaneous weather reports of any valid location around the globe.
 
 Just enter the location in the text box provided and get the weather report of the desired location.
